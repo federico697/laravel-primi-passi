@@ -7,7 +7,7 @@
     <title>test</title>
 </head>
 <body>
-    <h1>hello world!! sono il BODY</h1>
+    <h1>FOOTER</h1>
     <nav>
         <ul>
             <li>
@@ -24,8 +24,5 @@
             </li>
         </ul>
     </nav>
-    <h1>{{$nome}}</h1>
-    <h1>{{$professione}}</h1>
-    <h1>{{$classe}}</h1>
 </body>
 </html>
